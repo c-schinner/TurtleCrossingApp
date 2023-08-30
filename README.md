@@ -1,15 +1,14 @@
 # Turtle Crossing App
-The Turtle Crossing App is an exciting Python game that challenges players to guide a turtle across a busy road while avoiding oncoming traffic. The game features a dynamic environment with moving cars, a player-controlled turtle, and a scoreboard that tracks the player's progress and levels.
+The Turtle Crossing App is an exciting Python game, using Object Oriented Programming, that challenges players to guide a turtle across a busy road while avoiding oncoming traffic. The game features a dynamic environment with moving cars, a player-controlled turtle, and a scoreboard that tracks the player's progress and levels.
 
 # Features
 Navigate a turtle across a busy road to reach the other side safely.
-Dodge oncoming traffic as you progress through different levels.
-Keep track of your score and level with an interactive scoreboard.
-Observe road lines for added realism and atmosphere.
 
-# Prerequisites
-Python 3.x
-turtle module (standard library)
+Dodge oncoming traffic as you progress through different levels.
+
+Keep track of your score and level with an interactive scoreboard.
+
+Observe road lines for added realism and atmosphere.
 
 # Usage
 1. Make sure you have Python installed. You can download it from the official Python website.
@@ -34,8 +33,11 @@ turtle module (standard library)
 You can customize various aspects of the game to enhance the player's experience:
 
 Adjust the screen.setup() values to change the window size.
+
 Modify colors, fonts, and positioning in the Scoreboard class to personalize the scoreboard's appearance.
+
 Customize car speeds and appearance in the CarManager class.
+
 Experiment with the turtle's movement speed and characteristics.
 
 # Contributing
@@ -46,6 +48,7 @@ This project is licensed under the MIT License.
 
 # Acknowledgments
 The app was created to showcase interactive gameplay using the turtle module in Python.
+
 Embark on the turtle's journey, overcome obstacles, and reach new levels in the Turtle Crossing App. Best of luck crossing the road safely!
 
 
